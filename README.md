@@ -2,14 +2,6 @@
 
 A state-of-the-art deepfake detection system built with PyTorch and EfficientNet-B0, featuring a user-friendly web interface for real-time image and video analysis.
 
-## ⚙️ Created By
-
-- 👨‍💻 [T RAHUL SINGH](https://github.com/TRahulsingh)
-- 🧑‍💻 [Mallikarjun Macherla](https://github.com/Mallikarjun-Macherla)
-- 🧑‍💻 [Sainath](https://github.com/sainathch45/)
-
----
-
 ## 🌟 Features
 
 - **Deep Learning Model**: EfficientNet-B0 architecture fine-tuned for deepfake detection
@@ -22,29 +14,6 @@ A state-of-the-art deepfake detection system built with PyTorch and EfficientNet
 ## 📐 System Architecture
 
 For detailed system architecture diagrams, data flow, and component interactions, see [ARCHITECTURE.md](ARCHITECTURE.md).
-
-## 🚀 Quick Start
-
-### Prerequisites
-
-- Python 3.8 or higher
-- CUDA-compatible GPU (optional, but recommended for training)
-
-### Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/TRahulsingh/DeepfakeDetector.git
-   cd DeepfakeDetector
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Download a pre-trained model** (or train your own):
-   - Place your model file as `models/best_model-v3.pt`
 
 ### Usage
 
